@@ -1,0 +1,61 @@
+
+.container {
+    background-color: aquamarine;
+    width: 25%;
+    padding: 2px;
+    margin: auto;
+    margin-top: 15px;
+  }
+
+  .generator {
+    color: #cb1beebe;
+    text-shadow: 0 0 20px #eb2f3fec;
+  }
+
+  .generator1 {
+    color: #bf7ecc;
+    text-shadow: 0 0 20px #1f1beb;
+    font-size: 25px;
+  }
+
+  .txt-tweet {
+    text-align: center;
+    font-size: 20px;
+    color: #161718;
+    background-color: #ece1d4;
+  }
+
+  .limit {
+    display: flex;
+    color: #cf1eb7;
+    font-size: 20px;
+  }
+
+  .button1 {
+    border-radius: 12px;
+    cursor: pointer;
+    background-color: #cf1eb7;
+  }
+
+  .button2 {
+    border-radius: 12px;
+    cursor: pointer;
+    background-color: #cf1eb7;
+  }
+
+  .button3 {
+    border-radius: 12px;
+    cursor: pointer;
+    background-color: #cf1eb7;
+  }
+  .ul,li{
+    background-color: #df53cce1;
+    border-radius: 10px;
+    color: #161718;
+    
+  }
+
+
+
+
+

@@ -1,0 +1,24 @@
+ .container-buttons{
+  background-color: #f5f5dc;
+  border-radius: 5px;
+  align-items: center;
+  text-align: center;
+  width: 20rem;
+  height: 15rem;
+  margin: auto;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+button{
+  margin: 15px;
+  padding: 15px;
+  background-color: aqua;
+  cursor: pointer;
+}
+
+h2{
+  width: 20rem;
+  font-size: 8rem;
+}
+
